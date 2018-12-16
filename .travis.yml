@@ -26,8 +26,10 @@ jobs:
     - env: CIP_TAG=5.16
     - env: CIP_TAG=5.14
     - env: CIP_TAG=5.12
-    - env: CIP_TAG=5.10
-    - env: CIP_TAG=5.8
+    - env: CIP_TAG=5.10.1
+    - env: CIP_TAG=5.10.0
+    - env: CIP_TAG=5.8.9
+    - env: CIP_TAG=5.8.8
 
 cache:
   directories:
