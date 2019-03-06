@@ -23,6 +23,8 @@ Build shared libraries for use with FFI
 
 # DESCRIPTION
 
+**NOTE**: This distribution was merged into [FFI::Platypus](https://metacpan.org/pod/FFI::Platypus).  Go there for further development.
+
 **WARNING**: Alpha quality software, expect a somewhat unstable API until it stabilizes.  Documentation
 may be missing or inaccurate.
 

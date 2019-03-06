@@ -35,6 +35,8 @@ use File::Path ();
 
 =head1 DESCRIPTION
 
+B<NOTE>: This distribution was merged into L<FFI::Platypus>.  Go there for further development.
+
 B<WARNING>: Alpha quality software, expect a somewhat unstable API until it stabilizes.  Documentation
 may be missing or inaccurate.
 
